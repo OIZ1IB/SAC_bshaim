@@ -25,7 +25,7 @@ var ajaxCall = (key, url, prompt) => {
   });
 };
 
-const url = "https://core.wiki-model.bsh-ia.com/openai";
+const url = "https://frona-gpt-openai.bsh-ia.com/openai";
 
 (function () {
   const template = document.createElement("template");
